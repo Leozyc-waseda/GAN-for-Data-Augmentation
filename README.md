@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 #  2 数据集准备，训练你自己的数据集
 - CycleGAN的目的是把Domain X的图片转成Domain Y的图片，并且同时可以把Domain Y的图片转成Domain X的图片。简单的说就是，【马→斑马】同时，【斑马→马】的转换是可以的.
 - 为此你要准备一个文件夹比如我的```GAN_train_dataset```里面有```train A ：干净```，```train B：脏```.
-![Image text](https://github.com/Leozyc-waseda/SoilingDataset/blob/master/github_images/%E6%88%AA%E5%B1%8F2020-07-12%20%E4%B8%8B%E5%8D%886.11.18.png)
+![Image text](https://github.com/Leozyc-waseda/SoilingDataset/blob/master/github_images/)
 - 同时里面还有测试的文件夹，用于测试模型```test A```，和```test B```.
 
 #  3 训练，train your model
