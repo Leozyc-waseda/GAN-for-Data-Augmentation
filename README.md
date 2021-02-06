@@ -36,6 +36,6 @@ python test.py --dataroot ./GAN_train_dataset/soiling --name maps_cyclegan --mod
 ```
 
 #  5 结果
-
+![Image text](https://github.com/Leozyc-waseda/GAN-for-Data-Augmentation/blob/main/result1.png)
 
 
