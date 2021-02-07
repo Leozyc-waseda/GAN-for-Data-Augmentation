@@ -85,6 +85,8 @@ python test.py --dataroot ./datasets/GAN_train_dataset --name soiling_CUT --CUT_
 -本篇Code来源如下：
 
 CUTGAN : https://github.com/taesungp/contrastive-unpaired-translation
+
+
 CycleGAN : https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 
